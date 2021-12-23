@@ -1,2 +1,2 @@
 # ihappy
-https://infern0538.github.io/ihappy/Index.html
+https://infern0538.github.io/ihappy/index.html
